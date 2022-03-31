@@ -16,7 +16,7 @@
 
     <properties>
         <shardingsphere.version>4.1.1</shardingsphere.version>
-        <springboot.version>2.2.1.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
     </properties>
 
     <dependencies>
